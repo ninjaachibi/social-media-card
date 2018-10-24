@@ -7,5 +7,5 @@ Here's what you should do:
 - clone your forked repo to your local machine
 - in the social-card directory, run `yarn && yarn start`
 - go into ./src/Card.js
-- style the card component with styled-components and CSS. You might find it valuable to look at model feed UIs for design inspiration
-- implement card expansion using React state
+- style the card component with styled-components and CSS. You might find it valuable to look at model feed UIs for design inspiration (https://www.styled-components.com/)
+- implement card expansion using React state (https://reactjs.org/docs/state-and-lifecycle.html)

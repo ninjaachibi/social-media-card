@@ -14,4 +14,4 @@ We've created a mock social network feed with some test post data.
 ### helpful hints
 
 - check the javascript console in Chrome to debug (command + option + i)
-- components in React (JSX) must be capitalized (eg. <MyComponent/> not <myComponent/>)
+- components in React (JSX) must be capitalized (eg. `<MyComponent/>` not `<myComponent/>`)
